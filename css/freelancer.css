@@ -487,7 +487,15 @@ mark,
   max-width: 100%;
   height: auto;
 }
-
+.img-pantallazos {
+  width: '60px';
+  height: auto;
+}
+.imghome1 {
+      width: 90px; /* Tamaño del área visible */      
+      
+      
+    }
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
@@ -9611,7 +9619,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .btn-social {
-  border-radius: 100%;
+  /*border-radius: 100%;*/
   display: inline-flex;
   width: 3.25rem;
   height: 3.25rem;
